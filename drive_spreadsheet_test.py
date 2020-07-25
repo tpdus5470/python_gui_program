@@ -1,3 +1,4 @@
+# 구글 스프레드 시트 자동 업로드를 위한 코드 
 import gspread
 import keyboard
 import time as delay
